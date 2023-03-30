@@ -21,13 +21,13 @@
     <a href="#about">About</a><br>
     <a href="#installation">Installation</a><br> 
     <a href="#algorithms">Algorithms</a><br>
-    <a href="#acknowledgements">Acknowledgements</a><br>
+    <a href="#sources">Sources</a><br>
   </details>
 </h2>
 
 <!-- ABOUT -->
 
-## <pre align="center">**About**</pre>
+# <pre align="center">About</pre>
 
 `Sorter` is an array sorting / benchmark program, written in C++. It let users measure how long
 it will take to sort an array of user-defined size and scenario. The array is populated by the
@@ -61,17 +61,14 @@ come from their respectful creators. Check "acknowledgements" for more info.
 > - Created this `Readme` file.
     <br><br>
 
-<br>
+<hr>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- INSTALLATION -->
-
-# <pre align="center">**Installation**</pre>
-
+# <pre align="center">Installation</pre>
 To use this program you can download the latest release and use the executable inside.
 Also, you can compile the source code manually or through an IDE with a bundled compiler:
-
-<br>
+<hr>
 
 <ul>
   <li>[1] Download the latest release and run the executable.</li>
@@ -80,7 +77,7 @@ Also, you can compile the source code manually or through an IDE with a bundled 
   <h4 align="center">or</h4>
   <li>[3] Download a tool chain, like MinGW, through the web and install it.</li>
 </ul>
-
+<hr>
 
 <br>
 
@@ -120,13 +117,12 @@ Also, you can compile the source code manually or through an IDE with a bundled 
   sorter.exe
   ```
 
-<br>
+<hr>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ALGORITHMS -->
-
-## <pre align="center">**Algorithms**</pre>
+# <pre align="center">Algorithms</pre>
 
 [Bubble]:https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
 
@@ -148,9 +144,10 @@ Also, you can compile the source code manually or through an IDE with a bundled 
 
 </div>
 
-<br>
+<hr>
 
 ### <pre align="center">Click below to see the algorithm's implementation</pre>
+<hr>
 
 <h3 align="center">
 <details>
@@ -292,41 +289,36 @@ void Array::selectSort() {
 </details>
 </h3>
 
-<br>
+<hr>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- TOOLS -->
-
-## <pre align="center">Tools</pre>
-
+# <pre align="center">Tools</pre>
 <p align="center">The tools used to create this assignment.</p>
-<br>
+<hr>
 
 - MingGW_GCC 9.2.0 compiler from [MinGW-w64](https://www.mingw-w64.org/)
 - Jetbrains CLion (Student/full version)
 - C++14 Standard
+<hr>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## <pre align="center">Acknowledgements</pre>
+<!-- SOURCES -->
+# <pre align="center">Sources</pre>
 
 <p align="center">Sources i used material to create the project and readme.</p>
-
-<br>
+<hr>
 
 * [Bubble-Sort Algorithm](https://en.wikipedia.org/wiki/Bubble_sort)
 * [Selection-Sort Algorithm](https://en.wikipedia.org/wiki/Selection_sort)
 * [Insertion-Sort Algorithm](https://en.wikipedia.org/wiki/Insertion_sort)
 * [Quick-Sort Algorithm](https://en.wikipedia.org/wiki/Quicksort)
 * [Mersenne-Twister(Pseudorandom Number Generator)](https://en.wikipedia.org/wiki/Mersenne_Twister)
-
-
 * [Wikipedia (overall)](https://en.wikipedia.org/)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/)
 
-<br>
+<hr>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
