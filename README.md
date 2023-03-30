@@ -106,7 +106,7 @@ Also, you can compile the source code manually or through an IDE with a bundled 
 
 - Type:
   ```c
-  g++ -o sorter.exe main.cpp class/Array.cpp class/Message.cpp class/RandMT.cpp class/User.cpp
+  g++ -o Sorter.exe main.cpp class/Array.cpp class/Message.cpp class/RandMT.cpp class/User.cpp
   ```
   and your executable should have been compiled.
 

@@ -23,7 +23,7 @@ int main(__attribute__((unused)) int argc, __attribute__((unused)) char **argv) 
     Message::banner();
     Message::description();
     RandMT randMt(time(nullptr)); //seed (constructor)
-    fileOutput.open("../Results.txt", ios::app); //creating and opening file
+    fileOutput.open("./Results.txt", ios::app); //creating and opening file
 
     //main program loop
     do {
