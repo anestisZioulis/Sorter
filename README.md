@@ -114,7 +114,7 @@ Also, you can compile the source code manually or through an IDE with a bundled 
 
 - You can run it in `cmd` by just typing it:
   ```c
-  sorter.exe
+  Sorter.exe
   ```
 
 <hr>
