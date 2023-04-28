@@ -19,6 +19,7 @@
   <details align="center">
     <summary>Menu</summary>
     <a href="#about">About</a><br>
+    <a href="#demo">Demo</a><br>
     <a href="#installation">Installation</a><br> 
     <a href="#algorithms">Algorithms</a><br>
     <a href="#sources">Sources</a><br>
@@ -26,7 +27,6 @@
 </h2>
 
 <!-- ABOUT -->
-
 # <pre align="center">About</pre>
 
 `Sorter` is an array sorting / benchmark program, written in C++. It let users measure how long
@@ -64,14 +64,33 @@ come from their respectful creators. Check "acknowledgements" for more info.
 <hr>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- DEMO -->
+# <pre align="center">Demo</pre>
+
+You can access a runnable demo hosted on `replit.com` from the following link:
+
+> https://replit.com/@anestisZioulis/Sorter?v=1
+
+In case it's down, you can watch the .gif file below to get an idea.
+
+<div align="center">
+  
+  ![](/files/images/demo.gif) | ![](/files/images/results.png)
+  :--:|:--:
+  
+</div>
+<hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- INSTALLATION -->
 # <pre align="center">Installation</pre>
-To use this program you can download the latest release and use the executable inside.
+To use this program you can download the latest <a href="https://github.com/anestisZioulis/Sorter/releases/">release</a> and use the executable inside.
 Also, you can compile the source code manually or through an IDE with a bundled compiler:
 <hr>
 
 <ul>
-  <li>[1] Download the latest release and run the executable.</li>
+  <li>[1] Download the latest <a href="https://github.com/anestisZioulis/Sorter/releases/">release</a> and run the executable.</li>
   <h4 align="center">or</h4>
   <li>[2] Download JetBrains CLion or another IDE that includes the compiler.</li>
   <h4 align="center">or</h4>
@@ -83,7 +102,7 @@ Also, you can compile the source code manually or through an IDE with a bundled 
 
 - [3] If you opted to compile the source code yourself.
 - You downloaded the tool chain that has the compiler and installed it.
-- Open `cmd`, change directory to the folder the source file is and check if `g++`
+- Then open `cmd`, change directory to the folder the source file is and check if `g++`
   is available with the following command:
   ```shell
    g++ -v
