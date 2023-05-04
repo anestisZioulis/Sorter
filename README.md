@@ -366,7 +366,7 @@ void Array::selectSort() {
 <!-- SOURCES -->
 # <pre align="center">Sources</pre>
 
-<p align="center">Sources i used material to create the project and readme.</p>
+<p align="center">Sources I used material to create the project and readme.</p>
 <hr>
 
 * [Bubble-Sort Algorithm](https://en.wikipedia.org/wiki/Bubble_sort)
