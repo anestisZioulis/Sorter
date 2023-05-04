@@ -375,6 +375,7 @@ void Array::selectSort() {
 * [Quick-Sort Algorithm](https://en.wikipedia.org/wiki/Quicksort)
 * [Mersenne-Twister(Pseudorandom Number Generator)](https://en.wikipedia.org/wiki/Mersenne_Twister)
 * [Wikipedia (overall)](https://en.wikipedia.org/)
+* [Text to ASCII generator](https://patorjk.com/software/taag/)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/)
 
 <br>
