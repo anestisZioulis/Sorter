@@ -26,11 +26,11 @@ it will take to sort an array of user-defined size and scenario. The array is po
 the same array while time is being recorded and saved in a `Results.txt` file for further studies.
 It should be able to run in every popular O.S. that can run C++.
 
-This program was created as an assignment for the lesson "Data Structures" at the **IHU**
+>This program was created as an **assignment** for the lesson "Data Structures" at the **IHU**
 (_International Hellenic University - Serres Campus_) by Anestis Zioulis. Part of the code
-come from their respectful creators. Check "acknowledgements" for more info.
+come from their respectful creators. Check "<a href="#sources">Sources</a>" for more info.
 
-> **My assignment**:<br>
+**My assignment**:<br>
 > * Develop a program in `C++`, that will create a dynamic integer array.
 > * The length of the array must be determined by the user.<br>
 > * A user selection Menu must follow, that contains four scenarios:<br>
@@ -43,7 +43,7 @@ come from their respectful creators. Check "acknowledgements" for more info.
 > * Save the result in the `Result.txt` file.
     <br><br>
 
-> **Additional changes**:<br>
+**Additional changes**:<br>
 > I did implement some additional changes from the MVP I created.
 > - The program will loop until the user inputs `0` in the array length.
 > - It will append and save all the benchmarks in the `Results.txt` file.
