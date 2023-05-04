@@ -15,16 +15,7 @@
 </pre>
 
 <!-- TABLE OF CONTENTS -->
-<h2>
-  <details align="center">
-    <summary>Menu</summary>
-    <a href="#about">About</a><br>
-    <a href="#demo">Demo</a><br>
-    <a href="#installation">Installation</a><br> 
-    <a href="#algorithms">Algorithms</a><br>
-    <a href="#sources">Sources</a><br>
-  </details>
-</h2>
+### <p align="center"><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></p>
 
 <!-- ABOUT -->
 # <pre align="center">About</pre>
@@ -61,8 +52,17 @@ come from their respectful creators. Check "acknowledgements" for more info.
 > - Created this `Readme` file.
     <br><br>
 
+<br>
 <hr>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="left">
+    <b><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></b>
+</div>
+
+<div align="right">
+    (<a href="#readme-top"><b>back to top 🠉</b></a>)
+</div>
+<hr>
+<br>
 
 
 <!-- DEMO -->
@@ -80,8 +80,18 @@ In case it's down, you can watch the .gif file below to get an idea.
   :--:|:--:
   
 </div>
+
+<br>
 <hr>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="left">
+    <b><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></b>
+</div>
+
+<div align="right">
+    (<a href="#readme-top"><b>back to top 🠉</b></a>)
+</div>
+<hr>
+<br>
 
 <!-- INSTALLATION -->
 # <pre align="center">Installation</pre>
@@ -136,8 +146,17 @@ Also, you can compile the source code manually or through an IDE with a bundled 
   Sorter.exe
   ```
 
+<br>
 <hr>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="left">
+    <b><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></b>
+</div>
+
+<div align="right">
+    (<a href="#readme-top"><b>back to top 🠉</b></a>)
+</div>
+<hr>
+<br>
 
 
 <!-- ALGORITHMS -->
@@ -308,8 +327,17 @@ void Array::selectSort() {
 </details>
 </h3>
 
+<br>
 <hr>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="left">
+    <b><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></b>
+</div>
+
+<div align="right">
+    (<a href="#readme-top"><b>back to top 🠉</b></a>)
+</div>
+<hr>
+<br>
 
 
 <!-- TOOLS -->
@@ -322,7 +350,17 @@ void Array::selectSort() {
 - C++14 Standard
 <hr>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
+<hr>
+<div align="left">
+    <b><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></b>
+</div>
+
+<div align="right">
+    (<a href="#readme-top"><b>back to top 🠉</b></a>)
+</div>
+<hr>
+<br>
 
 
 <!-- SOURCES -->
@@ -339,5 +377,14 @@ void Array::selectSort() {
 * [Wikipedia (overall)](https://en.wikipedia.org/)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/)
 
+<br>
 <hr>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="left">
+    <b><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></b>
+</div>
+
+<div align="right">
+    (<a href="#readme-top"><b>back to top 🠉</b></a>)
+</div>
+<hr>
+<br>
