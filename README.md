@@ -20,25 +20,25 @@
 <!-- ABOUT -->
 # <pre align="center">About</pre>
 
-**Sorter** is an array sorting / benchmark program, written in C++. It lets users measure how long
-it will take to sort an array of user-defined size and scenario. The array is populated by the
-`Mersenne Twister`, a pseudo-random number generator. Then each algorithm run through a copy of
+**Sorter** is an array sorting and benchmarking program written in C++. It lets users measure how long
+it will take to sort an array of user-defined sizes and scenarios. The array is populated by the
+`Mersenne Twister`, a pseudo-random number generator. Then each algorithm runs through a copy of
 the same array while time is being recorded and saved in a `Results.txt` file for further studies.
-It should be able to run in every popular O.S. that can run C++.
+It should be able to run on every popular OS that can run C++.
 
->This program was created as an **assignment** for the lesson "Data Structures" at the **IHU**
-(_International Hellenic University - Serres Campus_) by Anestis Zioulis. Part of the code
-come from their respectful creators. Check "<a href="#sources">Sources</a>" for more info.
+>This program was created as an **assignment** for the lesson "Data Structures" at the **IHU** 
+(_International Hellenic University, Serres Campus_) by Anestis Zioulis. Part of the code
+comes from their respectful creators. Check "<a href="#sources">Sources</a>" for more information.
 
 **My assignment**:<br>
-> * Develop a program in `C++`, that will create a dynamic integer array.
-> * The length of the array must be determined by the user.<br>
-> * A user selection Menu must follow, that contains four scenarios:<br>
-    `100% random` - `50% sorted and 50% random` - `Sorted ASC` - `Sorted DESC`.<br>
-> * Use the **Mersenne Twister** (pseudorandom number generator) to fill the arrays (*provided*).
+> * Develop a program in `C++` that will create a dynamic integer array.
+> * The user must determine the array length.<br>
+> * A user-selection menu must follow that contains four scenarios:<br>
+    `100% random`, `50% sorted and 50% random`, `Sorted ASC`, `Sorted DESC`.<br>
+> * Use the **Mersenne Twister** (a pseudo-random number generator) to fill the arrays (*provided*).
 > * After the scenario selection, the array must be initialized accordingly
     and get sorted with the following sorting algorithms (*provided*):
-    `Bubble` - `Selection` - `Insertion` - `Quick`.<br>
+    `Bubble`, `Selection`, `Insertion`, `Quick`.<br>
 > * Track each algorithm's time in seconds with the `clock()` function.<br>
 > * Save the result in the `Result.txt` file.
     <br><br>
@@ -47,9 +47,9 @@ come from their respectful creators. Check "<a href="#sources">Sources</a>" for 
 > I did implement some additional changes from the MVP I created.
 > - The program will loop until the user inputs `0` in the array length.
 > - It will append and save all the benchmarks in the `Results.txt` file.
-> - Renamed variables, classes etc. to make it readable for international users.
+> - Renamed variables, classes, etc. to make it readable for international users.
 > - Added input validation to avoid crashes.
-> - Created this `Readme` file.
+> - Created this `readme` file.
     <br><br>
 
 <br>
@@ -72,7 +72,7 @@ You can access a runnable demo hosted on `replit.com` from the following link:
 
 > https://replit.com/@anestisZioulis/Sorter?v=1
 
-In case it's down, you can watch the .gif file below to get an idea.
+In case it's down, you can watch the gif file below to get an idea.
 
 <div align="center">
   
@@ -95,8 +95,8 @@ In case it's down, you can watch the .gif file below to get an idea.
 
 <!-- INSTALLATION -->
 # <pre align="center">Installation</pre>
-To use this program you can download the latest <a href="https://github.com/anestisZioulis/Sorter/releases/">release</a> and use the executable inside.
-Also, you can compile the source code manually or through an IDE with a bundled compiler:
+To use this program, you can download the latest <a href="https://github.com/anestisZioulis/Sorter/releases/">release</a> and use the executable inside.
+Also, you can compile the source code manually or through an IDE with a bundled compiler.
 <hr>
 
 <ul>
@@ -112,7 +112,7 @@ Also, you can compile the source code manually or through an IDE with a bundled 
 
 - [3] If you opted to compile the source code yourself.
 - You downloaded the tool chain that has the compiler and installed it.
-- Then open `cmd`, change directory to the folder the source file is and check if `g++`
+- Then open `cmd`, change directory to the folder where the source file is, and check if `g++`
   is available with the following command:
   ```shell
    g++ -v
@@ -120,7 +120,7 @@ Also, you can compile the source code manually or through an IDE with a bundled 
 
 <br>
 
-- If you see something like this you are good to compile:
+- If you see something like this, you are good to compile:
   ```c
   Using built-in specs.
   COLLECT_GCC=g++
@@ -184,7 +184,7 @@ Also, you can compile the source code manually or through an IDE with a bundled 
 
 <hr>
 
-### <pre align="center">Click below to see the algorithm's implementation</pre>
+### <pre align="center">Click below to see the algorithm's implementation.</pre>
 <hr>
 
 <h3 align="center">
@@ -346,7 +346,7 @@ void Array::selectSort() {
 <hr>
 
 - MingGW_GCC 9.2.0 compiler from [MinGW-w64](https://www.mingw-w64.org/)
-- Jetbrains CLion (Student/full version)
+- Jetbrains CLion (student/full version)
 - C++14 Standard
 <hr>
 
@@ -366,14 +366,14 @@ void Array::selectSort() {
 <!-- SOURCES -->
 # <pre align="center">Sources</pre>
 
-<p align="center">Sources I used material to create the project and readme.</p>
+<p align="center">Sources I used materials to create the project and readme.</p>
 <hr>
 
 * [Bubble-Sort Algorithm](https://en.wikipedia.org/wiki/Bubble_sort)
 * [Selection-Sort Algorithm](https://en.wikipedia.org/wiki/Selection_sort)
 * [Insertion-Sort Algorithm](https://en.wikipedia.org/wiki/Insertion_sort)
 * [Quick-Sort Algorithm](https://en.wikipedia.org/wiki/Quicksort)
-* [Mersenne-Twister(Pseudorandom Number Generator)](https://en.wikipedia.org/wiki/Mersenne_Twister)
+* [Mersenne-Twister (a pseudo-random number generator)](https://en.wikipedia.org/wiki/Mersenne_Twister)
 * [Wikipedia (overall)](https://en.wikipedia.org/)
 * [Text to ASCII generator](https://patorjk.com/software/taag/)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/)
