@@ -20,7 +20,7 @@
 <!-- ABOUT -->
 # <pre align="center">About</pre>
 
-**Sorter** is an array sorting / benchmark program, written in C++. It let users measure how long
+**Sorter** is an array sorting / benchmark program, written in C++. It lets users measure how long
 it will take to sort an array of user-defined size and scenario. The array is populated by the
 `Mersenne Twister`, a pseudo-random number generator. Then each algorithm run through a copy of
 the same array while time is being recorded and saved in a `Results.txt` file for further studies.
